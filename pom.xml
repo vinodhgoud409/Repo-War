@@ -59,12 +59,12 @@
         </plugin>
         <servers>
     <server>
-      <id>nexus-snapshots</id>
+      <id>Nexus</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
     <server>
-      <id>http://34.224.5.119:8081/repository/sentinel/</id>
+      <id>http://18.224.0.254:8081/repository/sentinel//</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
